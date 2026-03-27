@@ -1,0 +1,11 @@
+{
+  "name": "study-tracker",
+  "version": "1.0.0",
+  "description": "A simple study tracker web app",
+  "main": "server.ts",
+  "scripts": {
+    "start": "node --experimental-strip-types server.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
