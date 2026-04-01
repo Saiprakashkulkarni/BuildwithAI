@@ -55,7 +55,6 @@ Actions:
 - Mark for revision
 - Delete chapter
 
-
 ---
 
 
