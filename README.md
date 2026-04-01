@@ -11,7 +11,7 @@ The app should allow users to:
 - Quickly see what needs revision
 
 
-⚠️ Keep it **lightweight** — no complex backend required.
+⚠️ Keep it **lightweight** — no complex backend required. 
 
 
 ---
