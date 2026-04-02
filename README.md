@@ -39,7 +39,6 @@ A **single-page web app** where:
 
 ---
 
-
 ### 2. ✅ Chapter Tracking
 Each chapter should have:
 - Title
