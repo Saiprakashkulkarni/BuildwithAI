@@ -9,7 +9,6 @@ The app should allow users to:
 - Mark progress (completed / revise)
 - Quickly see what needs revision
 
-
 ⚠️ Keep it **lightweight** — no complex backend required.
 
 
