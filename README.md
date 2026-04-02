@@ -4,7 +4,6 @@
 ## 🧠 Goal
 Build a **simple Study Tracker web app** (inspired by TakeUForward-style progress tracking) for **university students**.
 
-
 The app should allow users to:
 - Track subjects and chapters
 - Mark progress (completed / revise)
